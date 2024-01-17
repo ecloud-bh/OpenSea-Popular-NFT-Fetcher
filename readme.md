@@ -6,14 +6,6 @@ Kullanım
 config.php dosyasında gerekli API anahtarlarını ve ayarları yapın.
 index.php scriptini çalıştırarak botu başlatın.
 
-Özellikler
-OpenSea API'sinden veri çekme
-Çekilen verileri işleme ve saklama
-Hata yönetimi ve logging
-Rate limit yönetimi
-
-Katkıda Bulunma
-Projeye katkıda bulunmak isteyenler için pull requestler kabul edilmektedir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak üzere bir konu açınız.
 
 
 ## Kurulum
